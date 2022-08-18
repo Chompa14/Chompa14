@@ -9,7 +9,7 @@ Hi there! 👋 My name is Samuel. I am a full stack software engineer. I special
 - ❤️ Co-founder of KallosTech, currently on the mission to help technical indie hackers & software engineers with tooling to better understand & manage software development life cycles. We find beauty in crafting technology.
 - 💞️ I’m looking to collaborate more on backend frameworks and cli tooling using JS/TS/Rust/Go.
 
-### Current list of Technologies I work with.
+## Current list of Technologies I work with.
 
 | Technology | Area | Comfort Rating/5 | Activity |
 | ----------- | ----------- | ----------- | ----------- |
@@ -25,6 +25,8 @@ Hi there! 👋 My name is Samuel. I am a full stack software engineer. I special
 | C++ | Backend | 2/5 | Learning |
 | COBOL | Backend | 4/5 | Past |
 
+## 🔥 Github Statistics
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chompa14&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 You can reach me on twitter [@Chompa_dev](https://twitter.com/Chompa_dev), or on [LinkedIn](https://www.linkedin.com/in/samuel-bosa-537b148b/).
 
