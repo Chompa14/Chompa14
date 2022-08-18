@@ -2,7 +2,7 @@
 
 ## Hello World 👋
 
-My name is Samuel Bosa, AKA Chompa. I am a Full Stack Software Engineer. I specialise in web development, application development, & systems programming. I am an ambitious engineer that is curious about modern software technology.
+My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web development, application development, & systems programming. I am an ambitious engineer that is curious about modern software technology.
 
 ![](https://komarev.com/ghpvc/?username=Chompa14&color=ff69b4)
 ---
