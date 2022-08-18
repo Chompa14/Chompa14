@@ -9,7 +9,7 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
 
 - 👀 I’m interested in frontend (React, Vue, WebAssembly) & backend (JS/TS, Python, Go, Rust, C++, & COBOL) development.
 - 🌱 I’m currently learning DevOps & Security (AWS), to enhance my skills as a developer, and progress into those fields in my career should the oppurtunity arise.
-- 💼 Professionally I am currently working at a company that specialises in data science & AI. A global data science solutions provider specialising in financial services, data talent, and utilities.
+- 💼 Professionally I am currently working at a company that specialises in Data science & AI. A global data science solutions provider specialising in financial services, data talent, and utilities.
 - ❤️ Co-founder of [KallosTech](https://kallos.tech), currently on the mission to help technical indie hackers & software engineers with tooling to better understand & manage software development life cycles. We find beauty in crafting technology to help others.
 - 💞️ I’m looking to collaborate more on backend frameworks and cli tooling using JS/TS/Rust/Go.
 
