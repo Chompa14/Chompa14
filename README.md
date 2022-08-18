@@ -1,4 +1,4 @@
-# Welcome to my Github Account.
+![github-header](https://user-images.githubusercontent.com/8473141/185309871-639c8c1d-36b2-4167-9073-794adae4ae23.png)
 
 Hi there! 👋 My name is Samuel. I am a full stack software engineer. I specialise in web development using Javascript/Typescript and I also do a lot of backend development, and always curious about working with modern software technology.
 
