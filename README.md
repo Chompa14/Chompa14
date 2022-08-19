@@ -48,14 +48,12 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
 
 ## ⏱ Development Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 29 Contributions in the Year 2022
- > 
 > 📦 4.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -93,17 +91,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-TypeScript               32 hrs 45 mins      █████████████████░░░░░░░░   69.34% 
-Python                   9 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84% 
-JSON                     1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
-reStructuredText         1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
-Git Config               54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+TypeScript               18 hrs 33 mins      ██████████████░░░░░░░░░░░   56.56% 
+Python                   9 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   30.02% 
+JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+reStructuredText         1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.56% 
+Git Config               54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77%
 
 🔥 Editors: 
-VS Code                  44 hrs 13 mins      █████████████████████████   100.0%
+VS Code                  29 hrs 46 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      44 hrs 13 mins      █████████████████████████   100.0%
+Mac                      29 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +119,7 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Chompa14/Chompa14/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 18:44:39 UTC
+ Last Updated on 19/08/2022 18:48:30 UTC
 <!--END_SECTION:waka-->
 
 ---
