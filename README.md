@@ -50,10 +50,12 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
 **🐱 My GitHub Data** 
 
+> 🏆 29 Contributions in the Year 2022
+ > 
 > 📦 4.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -91,17 +93,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-TypeScript               12 hrs 11 mins      ███████████████░░░░░░░░░░   62.14% 
-Python                   4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
-reStructuredText         35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
-Git Config               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
+TypeScript               12 hrs 10 mins      ███████████████░░░░░░░░░░   62.72% 
+Python                   4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.36% 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+reStructuredText         35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
+Git Config               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
 
 🔥 Editors: 
-VS Code                  19 hrs 37 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 25 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      19 hrs 37 mins      █████████████████████████   100.0%
+Mac                      19 hrs 25 mins      █████████████████████████   100.0%
 
 ```
 
@@ -119,7 +121,7 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Chompa14/Chompa14/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 18:43:21 UTC
+ Last Updated on 22/08/2022 18:44:46 UTC
 <!--END_SECTION:waka-->
 
 ---
