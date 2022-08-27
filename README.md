@@ -48,7 +48,7 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
 
 ## ⏱ Development Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
@@ -93,8 +93,8 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-TypeScript               13 hrs 48 mins      ██████████████████░░░░░░░   74.93% 
-Text                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
+TypeScript               13 hrs 48 mins      ██████████████████░░░░░░░   74.92% 
+Text                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
 Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
 reStructuredText         34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
 Bash                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
@@ -121,7 +121,7 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Chompa14/Chompa14/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 18:46:04 UTC
+ Last Updated on 27/08/2022 18:43:42 UTC
 <!--END_SECTION:waka-->
 
 ---
