@@ -48,9 +48,9 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
 
 ## ⏱ Development Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,6 +64,49 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
  > 
 > 🔑 13 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    12 commits     ███████████████░░░░░░░░░░   60.0% 
+🌆 Daytime    8 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     12 commits     ███████████████░░░░░░░░░░   60.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     8 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+TypeScript               11 hrs 57 mins      █████████████████████░░░░   84.08% 
+Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+INI                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55% 
+reStructuredText         12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45%
+
+🔥 Editors: 
+VS Code                  14 hrs 13 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      14 hrs 13 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -78,7 +121,7 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Chompa14/Chompa14/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:44:32 UTC
+ Last Updated on 05/09/2022 18:46:58 UTC
 <!--END_SECTION:waka-->
 
 ---
