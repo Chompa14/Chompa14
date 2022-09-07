@@ -50,13 +50,13 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 29 Contributions in the Year 2022
  > 
-> 📦 4.3 kB Used in GitHub's Storage 
+> 📦 4.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -93,17 +93,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-TypeScript               11 hrs 57 mins      █████████████████████░░░░   84.08% 
-Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
-INI                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55% 
-reStructuredText         12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45%
+TypeScript               13 hrs 19 mins      ███████████████████░░░░░░   79.27% 
+Python                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.82% 
+reStructuredText         22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
+INI                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
 
 🔥 Editors: 
-VS Code                  14 hrs 13 mins      █████████████████████████   100.0%
+VS Code                  16 hrs 48 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 13 mins      █████████████████████████   100.0%
+Mac                      16 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +121,7 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Chompa14/Chompa14/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 18:46:58 UTC
+ Last Updated on 07/09/2022 18:48:23 UTC
 <!--END_SECTION:waka-->
 
 ---
