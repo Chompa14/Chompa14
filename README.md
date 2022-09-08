@@ -48,9 +48,9 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
 
 ## ⏱ Development Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -93,17 +93,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-TypeScript               13 hrs 19 mins      ███████████████████░░░░░░   79.27% 
-Python                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.82% 
-reStructuredText         22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
-INI                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+TypeScript               9 hrs 6 mins        ███████████████████░░░░░░   75.91% 
+Python                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
+reStructuredText         22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+INI                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
 
 🔥 Editors: 
-VS Code                  16 hrs 48 mins      █████████████████████████   100.0%
+VS Code                  12 hrs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      16 hrs 48 mins      █████████████████████████   100.0%
+Mac                      12 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +121,7 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Chompa14/Chompa14/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2022 18:48:23 UTC
+ Last Updated on 08/09/2022 18:48:23 UTC
 <!--END_SECTION:waka-->
 
 ---
