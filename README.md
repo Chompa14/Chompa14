@@ -48,7 +48,7 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
 
 ## ⏱ Development Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,7 +121,7 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Chompa14/Chompa14/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2022 18:48:23 UTC
+ Last Updated on 09/09/2022 18:48:43 UTC
 <!--END_SECTION:waka-->
 
 ---
