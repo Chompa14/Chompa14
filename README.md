@@ -56,7 +56,7 @@ My name is Samuel Bosa. I am a Full Stack Software Engineer. I specialise in web
 
 > 🏆 29 Contributions in the Year 2022
  > 
-> 📦 4.2 kB Used in GitHub's Storage 
+> 📦 4.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -121,7 +121,7 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Chompa14/Chompa14/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/09/2022 18:47:37 UTC
+ Last Updated on 19/09/2022 18:52:09 UTC
 <!--END_SECTION:waka-->
 
 ---
